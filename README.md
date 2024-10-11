@@ -1,11 +1,11 @@
-# real_estate_app
+# Obiechina Emmanuel
 
 This is a sample implementation from the dribbble url
 https://dribbble.com/shots/23780608-Real-Estate-App
 
 
-## Assets
+## Real Estate Listing
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+video demo
+![video](./assets/gif/moniepoint test app.gif)
 
