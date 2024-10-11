@@ -1,0 +1,54 @@
+name: moniepoint
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.4
+
+dependencies:
+  blur: ^4.0.0
+  cupertino_icons: ^1.0.8
+  dartz: ^0.10.1
+  dropdown_button2: ^2.3.9
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_screenutil: ^5.9.3
+  flutter_staggered_grid_view: ^0.7.0
+  google_maps_flutter: ^2.9.0
+  very_good_analysis: ^2.4.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+  assets:
+    - assets/json/google_map_theme.json
+    - assets/images/home/
+    - assets/images/icons/
+    - assets/images/
+
+  fonts:
+    - family: Afacad_Flux
+      fonts:
+        - asset: assets/Afacad_Flux/AfacadFlux-ExtraBold.ttf
+          weight: 800
+        - asset: assets/Afacad_Flux/AfacadFlux-Medium.ttf
+          weight: 500
+        - asset: assets/Afacad_Flux/AfacadFlux-Regular.ttf
+          weight: 400
+        - asset: assets/Afacad_Flux/AfacadFlux-SemiBold.ttf
+          weight: 600
+  
