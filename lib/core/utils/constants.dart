@@ -1,0 +1,10 @@
+const kDuration1Sec = Duration(seconds: 1);
+const kDuration1_5Sec = Duration(milliseconds: 1500);
+const kDuration1_8Sec = Duration(milliseconds: 1800);
+const kDuration2Sec = Duration(seconds: 2);
+const kDuration3Sec = Duration(seconds: 3);
+const kDuration800Mil = Duration(milliseconds: 800);
+const kDuration500Mil = Duration(milliseconds: 500);
+const kDuration300Mil = Duration(milliseconds: 300);
+const kDuration150Mil = Duration(milliseconds: 150);
+const kDuration100Mil = Duration(milliseconds: 100);
